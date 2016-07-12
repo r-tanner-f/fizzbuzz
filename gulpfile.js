@@ -8,7 +8,6 @@ const istanbul   = require('gulp-istanbul');
 const coveralls  = require('gulp-coveralls');
 const sourcemaps = require('gulp-sourcemaps');
 
-const rmrf      = require('rimraf');
 const execute   = require('child_process').exec;
 
 let reporter = 'spec';
