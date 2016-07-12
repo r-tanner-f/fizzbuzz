@@ -1,7 +1,13 @@
-<a name="module_FizzBuzz"></a>
+<a name="FizzBuzz
+[![Build Status](https_//travis-ci.org/r-tanner-f/fizzbuzz.svg?branch=master)](https_//travis-ci.org/r-tanner-f/fizzbuzz)
+[![Coverage Status](https_//coveralls.io/repos/github/r-tanner-f/fizzbuzz/badge.svg?branch=master)](https_//coveralls.io/github/r-tanner-f/fizzbuzz?branch=master)module_"></a>
 
 ## FizzBuzz
-<a name="exp_module_FizzBuzz--module.exports"></a>
+[![Build Status](https://travis-ci.org/r-tanner-f/fizzbuzz.svg?branch=master)](https://travis-ci.org/r-tanner-f/fizzbuzz)
+[![Coverage Status](https://coveralls.io/repos/github/r-tanner-f/fizzbuzz/badge.svg?branch=master)](https://coveralls.io/github/r-tanner-f/fizzbuzz?branch=master)
+<a name="exp_FizzBuzz
+[![Build Status](https_//travis-ci.org/r-tanner-f/fizzbuzz.svg?branch=master)](https_//travis-ci.org/r-tanner-f/fizzbuzz)
+[![Coverage Status](https_//coveralls.io/repos/github/r-tanner-f/fizzbuzz/badge.svg?branch=master)](https_//coveralls.io/github/r-tanner-f/fizzbuzz?branch=master)module_--module.exports"></a>
 
 ### module.exports(i) ⇒ <code>String</code> ⏏
 Returns 'Fizz' for multiples of 3, 'Buzz' for multiples of 5,

@@ -1,6 +1,9 @@
 'use strict';
 
-/** @module FizzBuzz */
+/** @module FizzBuzz
+ * [![Build Status](https://travis-ci.org/r-tanner-f/fizzbuzz.svg?branch=master)](https://travis-ci.org/r-tanner-f/fizzbuzz)
+ * [![Coverage Status](https://coveralls.io/repos/github/r-tanner-f/fizzbuzz/badge.svg?branch=master)](https://coveralls.io/github/r-tanner-f/fizzbuzz?branch=master)
+ */
 
 /**
  * Returns 'Fizz' for multiples of 3, 'Buzz' for multiples of 5,
